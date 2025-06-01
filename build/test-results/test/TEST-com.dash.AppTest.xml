@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dash.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-01T16:45:31" hostname="LENOVO-MISBA06" time="0.0">
+  <properties/>
+  <testcase name="shouldAnswerWithTrue" classname="com.dash.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
